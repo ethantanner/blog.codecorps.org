@@ -9,6 +9,6 @@
       <link rel="icon" href="https://d3pgew4wbk2vb1.cloudfront.net/icons/favicon-32.png" sizes="32x32">
 
 
-      <link rel="stylesheet" href="<?php bloginfo('siteurl'); ?>/wp-content/themes/codecorps/style.css"/>
+      <link rel="stylesheet" href="<?php bloginfo('url'); ?>/wp-content/themes/codecorps/style.css"/>
   <?php wp_head(); ?>
 </head>
